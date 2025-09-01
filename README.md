@@ -19,7 +19,7 @@ Nosso objetivo é permitir a **centralização do conteúdo**, facilitar a **con
 
 | Nome Completo                              | Matrícula            | GitHub (se aplicável)                  |
 |-------------------------------------------|----------------------|----------------------------------------|
-| Amanda Alves do Nascimento                | 20241321000035       | *(não informado)*                      |
+| Amanda Alves do Nascimento                | 20241321000035       | *https://github.com/Amandabr922*       |
 | Anna Ellyca Vitória de Lima Santos        | 20241321000002       | *(não informado)*                      |
 | Maxsuel Bruno Oliveira de Abreu           | 20241321000024       | *(não informado)*                      |
 
