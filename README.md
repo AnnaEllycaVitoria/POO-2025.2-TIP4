@@ -9,7 +9,7 @@ Serão incluídas as resoluções das seguintes listas:
 - `Lista-02 (Estrutura Condicional), (Estrutura de Repetição)`
 - `Lista-03 (Vetor), (Sub-rotina)`
   
-📖 Livro base: Fundamentos da Programação de Computadores – 2012, de Ana Fernanda Gomes Ascencio e Edilene Aparecida Veneruchi de Campos.
+📖 *Livro base: Fundamentos da Programação de Computadores – 2012, de Ana Fernanda Gomes Ascencio e Edilene Aparecida Veneruchi de Campos.*
 
 Nosso objetivo é permitir a **centralização do conteúdo**, facilitar a **consulta** e promover o **registro do desenvolvimento técnico** dos participantes.
 
