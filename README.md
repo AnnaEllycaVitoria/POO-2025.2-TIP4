@@ -5,9 +5,9 @@
 Este repositório tem como função principal **organizar e documentar** as soluções das **listas de exercícios** da disciplina de **Programação Orientada a Objetos (POO)**, referente ao semestre **2025.2**, da turma **TIP4**.  
 
 Serão incluídas as resoluções das seguintes listas:
-- `Lista-01`
-- `Lista-02`
-- `Lista-03`
+- `Lista-01 (Estrutura Sequencial)`
+- `Lista-02 (Estrutura Condicional), (Estrutura de Repetição)`
+- `Lista-03 (Vetor), (Sub-rotina)`
 
 Nosso objetivo é permitir a **centralização do conteúdo**, facilitar a **consulta** e promover o **registro do desenvolvimento técnico** dos participantes.
 
@@ -48,7 +48,55 @@ Turma: TIP4 — Semestre 2025.2
 
 ---
 
-## Estrutura do Repósitorio
-
-
-
+## 🗂️ Estrutura do Repositório
+```
+POO-2025.2-TIP4/
+│
+├── Lista-01/
+│ ├── Exercicios-Resolvidos/
+│ │ ├── Q01/
+│ │ ├── Q02/
+│ │ ├── ... Q10/
+│ │
+│ ├── Exercicios-Propostos/
+│ │ ├── Q01/
+│ │ ├── Q02/
+│ │ ├── ... Q05/
+│ │
+│ └── README.md
+│
+├── Lista-02/
+│ ├── CAP-04/
+│ │ ├── Exercicios-Resolvidos/
+│ │ │ ├── Q01/
+│ │ │ ├── Q02/
+│ │ │ ├── ... Q10/
+│ │ │
+│ │ ├── Exercicios-Propostos/
+│ │ │ ├── Q01/
+│ │ │ ├── Q02/
+│ │ │ ├── ... Q05/
+│
+│ ├── CAP-05/
+│ │ ├── Exercicios-Resolvidos/
+│ │ │ ├── Q01/
+│ │ │ ├── Q02/
+│ │ │ ├── ... Q10/
+│ │ │
+│ │ ├── Exercicios-Propostos/
+│ │ │ ├── Q01/
+│ │ │ ├── Q02/
+│ │ │ ├── ... Q05/
+│ │
+│ └── README.md
+│
+├── Lista-03/
+│ ├── Exercicios-Resolvidos/
+│ │ ├── Q01/
+│ │ ├── Q02/
+│ │ ├── ... Q10/
+│ │
+│ └── README.md
+│
+└── README.md
+```
