@@ -21,7 +21,7 @@ Nosso objetivo é permitir a **centralização do conteúdo**, facilitar a **con
 |-------------------------------------------|----------------------|----------------------------------------|
 | Amanda Alves do Nascimento                | 20241321000035       | *https://github.com/Amandabr922*       |
 | Anna Ellyca Vitória de Lima Santos        | 20241321000002       | *https://github.com/AnnaEllycaVitoria* |
-| Maxsuel Bruno Oliveira de Abreu           | 20241321000024       | *(não informado)*                      |
+| Maxsuel Bruno Oliveira de Abreu           | 20241321000024       | *https://github.com/MaxsuelBruno*      |
 
 ---
 ### 📄 Descrição das pastas
